@@ -1,2 +1,5 @@
 # demo-repo
- Desm for git 
+ Just a Demo
+
+ ## Trying
+ To Push
